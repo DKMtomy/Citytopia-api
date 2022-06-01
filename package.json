@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@mcbeutils/chatranks": "^1.0.1"
+  },
+  "scripts": {
+    "build": "tsc && beapi build",
+    "bundle": "tsc && beapi bundle"
+  }
+}
