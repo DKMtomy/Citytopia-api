@@ -26,3 +26,6 @@ import './tests/daily.js';
 import './tests/antinuker.js';
 import './tests/anti32k.js';
 import './tests/setup.js';
+import './tests/crim.js';
+import './tests/tp.js';
+import './tests/fill.js';

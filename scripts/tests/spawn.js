@@ -3,7 +3,6 @@ import { client } from  '../beapi_modules/BEAPI_CORE_SCRIPT.js';
 client.commands.register({
     name: 'spawn',
     description: 'tp to spawn',
-    aliases: ['tp'],
     hidden: true
     
   }, (data) => {
